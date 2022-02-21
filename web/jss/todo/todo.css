@@ -1,0 +1,66 @@
+*{
+    margin: 0 auto;
+}
+header{
+    background-color: rgb(31, 30, 30);
+    height: 80px;
+    padding-top: 20px;
+
+}
+#siu{
+    color: rgb(158, 149, 149);
+    margin-top:0px;
+    margin-left:80px;
+}
+
+#zag{
+    margin-top:100px;
+    margin-left:350px;
+    font-size: 50px;
+    font-weight: bold;
+    color: rgb(63, 59, 59);
+    height: 51px;
+    
+}
+#cont{
+    margin-left:500px;
+    margin-top:50px;
+}
+#input{
+    width: 400px;
+}
+#btn{
+    background-color: rgb(36, 100, 196);
+    color: white;
+}
+ul{
+    list-style-type:none;
+}
+.li{
+   
+    margin-top: -18px;
+    margin-left:10px;
+    max-width: 300px;
+}
+.btn {
+    float: right;
+    margin-right: -80px;
+    width: 20px;
+    height: 20px ;
+    background-image: url("https://img.freepik.com/free-vector/illustration-trash-bin-icon_53876-5598.jpg?size=338&ext=jpg&ga=GA1.1.1477872001.1643846400");
+   background-size: cover;
+   background-repeat: no-repeat;
+}
+#check{
+    
+    margin-left: -30px;
+    margin-top: 12px;
+    width: 20px;
+}
+.li1{
+    margin-top: -18px;
+    margin-left:10px;
+    max-width: 300px;
+    text-decoration: line-through;
+   
+}
